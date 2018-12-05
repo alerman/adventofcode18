@@ -1,5 +1,3 @@
-package com.company.day2;
-
 import java.io.IOException;
 import java.util.List;
 
