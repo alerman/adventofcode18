@@ -18,6 +18,10 @@ public class day9_part1 {
         int currentMarbleAt = 1;
         for(int marble=2; marble<=numMarbles;marble++)
         {
+            if(marble%100000 == 0)
+            {
+                System.out.println(marble);
+            }
             if(player/numPlayers>0)
             {
                 player=0;
