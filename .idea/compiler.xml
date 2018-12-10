@@ -17,11 +17,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="day2" target="1.5" />
-      <module name="day3" target="1.5" />
-      <module name="day4" target="1.5" />
+      <module name="day10_main" target="1.8" />
+      <module name="day10_test" target="1.8" />
       <module name="day5" target="1.5" />
-      <module name="day8" target="1.5" />
+      <module name="day6" target="1.5" />
+      <module name="day7" target="1.5" />
       <module name="day9" target="8" />
     </bytecodeTargetLevel>
   </component>

@@ -5,7 +5,7 @@ public class day9_part1 {
     public static void main(String[] args) {
         int numMarbles = 71010*100; //for part 1, remove the * 100
         int numPlayers = 468     ;
-        int[] score = new int [numPlayers];
+        long[] score = new long [numPlayers];
         for(int i = 0;i < numPlayers;i++)
         {
             score[i] = 0;
@@ -69,7 +69,7 @@ public class day9_part1 {
             player++;
 
         }
-        int max = 0;
+        long max = 0;
         for(int i = 0; i < numPlayers ; i++)
         {
             max = Math.max(max, score[i]);
