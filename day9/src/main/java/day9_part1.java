@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class day9_part1 {
@@ -10,7 +11,7 @@ public class day9_part1 {
         {
             score[i] = 0;
         }
-        List<Integer> board = new ArrayList<>();
+        List<Integer> board = new LinkedList<>();
         board.add(0,0);
         board.add(1,1);
 
@@ -18,10 +19,6 @@ public class day9_part1 {
         int currentMarbleAt = 1;
         for(int marble=2; marble<=numMarbles;marble++)
         {
-            if(marble%100000 == 0)
-            {
-                System.out.println(marble);
-            }
             if(player/numPlayers>0)
             {
                 player=0;

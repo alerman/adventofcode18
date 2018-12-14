@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="MavenProjectsManager">
-    <option name="originalFiles">
-      <list>
-        <option value="$PROJECT_DIR$/day6/pom.xml" />
-        <option value="$PROJECT_DIR$/day7/pom.xml" />
-        <option value="$PROJECT_DIR$/day9/pom.xml" />
-        <option value="$PROJECT_DIR$/day11/pom.xml" />
-        <option value="$PROJECT_DIR$/day12/pom.xml" />
-        <option value="$PROJECT_DIR$/day13/pom.xml" />
-      </list>
-    </option>
-  </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
