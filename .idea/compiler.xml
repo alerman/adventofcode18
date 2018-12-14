@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="dat13_secondtry" />
         <module name="day2" />
         <module name="day3" />
         <module name="day4" />
@@ -15,12 +16,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
+      <module name="dat13_secondtry" target="8" />
       <module name="day2" target="1.5" />
       <module name="day3" target="1.5" />
       <module name="day4" target="1.5" />
       <module name="day5" target="1.5" />
       <module name="day8" target="1.5" />
-      <module name="day9" target="8" />
+      <module name="day9" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
