@@ -4,12 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/adventofcode18.iml" filepath="$PROJECT_DIR$/adventofcode18.iml" />
       <module fileurl="file://$PROJECT_DIR$/dat13_secondtry/dat13_secondtry.iml" filepath="$PROJECT_DIR$/dat13_secondtry/dat13_secondtry.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day2/day2.iml" filepath="$PROJECT_DIR$/day2/day2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day3/day3.iml" filepath="$PROJECT_DIR$/day3/day3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day4/day4.iml" filepath="$PROJECT_DIR$/day4/day4.iml" />
       <module fileurl="file://$PROJECT_DIR$/day5/day5.iml" filepath="$PROJECT_DIR$/day5/day5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/day8/day8.iml" filepath="$PROJECT_DIR$/day8/day8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day6/day6.iml" filepath="$PROJECT_DIR$/day6/day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day7/day7.iml" filepath="$PROJECT_DIR$/day7/day7.iml" />
       <module fileurl="file://$PROJECT_DIR$/day9/day9.iml" filepath="$PROJECT_DIR$/day9/day9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daysAfter13/daysAfter13.iml" filepath="$PROJECT_DIR$/daysAfter13/daysAfter13.iml" />
     </modules>
   </component>
 </project>

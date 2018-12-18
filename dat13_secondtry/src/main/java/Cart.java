@@ -2,18 +2,28 @@ import org.omg.PortableInterceptor.DISCARDING;
 
 import java.awt.*;
 import java.util.Map;
+import java.util.Set;
 
 public class Cart implements  Comparable{
     public int compareTo(Object o) {
-        double thisOne = 0;
-        double otherOne = 0;
-        if(o instanceof Cart) {
-            thisOne = Math.sqrt(position.x^2+position.y^2);
-            otherOne = Math.sqrt(((Cart) o).getPosition().x^2+((Cart) o).getPosition().y^2);
+        if(o instanceof Cart){
+            int x = position.x;
+            int y = position.y;
+            int otherX = ((Cart)o).getPosition().x;
+            int otherY  = ((Cart)o).getPosition().y;
+            if(x == otherX && y == otherY)
+            {
+                return 0;
+            }
+            if(y == otherY)
+            {
+                return Integer.compare(x,otherX);
+            }
+            return Integer.compare(y,otherY);
+
         }
         else throw new IllegalArgumentException("Uh, howd you get here");
 
-        return Double.compare(thisOne, otherOne);
     }
 
     enum Direction{
@@ -47,34 +57,22 @@ public class Cart implements  Comparable{
         this.direction = direction;
     }
 
-    public boolean applyMove(Map<Point, Track> board){
+    public boolean detectCrash(Map<Point, Track> board){
         //update position
         //update direction
-        board.get(position).setHasCart(false);
-        switch (this.direction)
+        Point nextPoint = getNextPoint();
+
+        Track trackAtNewPosition = board.get(nextPoint);
+
+        if(trackAtNewPosition.getCart()!= null)
         {
-            case UP:
-                this.position = new Point(position.x, position.y-1);
-                break;
-            case DOWN:
-                this.position = new Point(position.x, position.y+1);
-                break;
-            case LEFT:
-                this.position = new Point(position.x-1, position.y);
-                break;
-            case RIGHT:
-                this.position = new Point(position.x+1, position.y);
-                break;
+            return true;
         }
+        return false;
 
-        Track trackAtNewPosition = board.get(position);
+    }
 
-        if(trackAtNewPosition.hasCart())
-        {
-            return false;
-        }
-
-        trackAtNewPosition.setHasCart(true);
+    public Direction getNextDirection(Track trackAtNewPosition) {
         switch (trackAtNewPosition.getTrackType())
         {
             // Case /
@@ -135,6 +133,7 @@ public class Cart implements  Comparable{
                         break;
                         // right
                     case 2:
+                        numTurns=0;
                         switch(direction){
                             case UP:
                                 this.direction = Direction.RIGHT;
@@ -155,7 +154,26 @@ public class Cart implements  Comparable{
                 break;
         }
 
-        return  true;
+        return direction;
+    }
 
+    public Point getNextPoint() {
+        Point nextPoint = new Point();
+        switch (this.direction)
+        {
+            case UP:
+                nextPoint = new Point(position.x, position.y-1);
+                break;
+            case DOWN:
+                nextPoint = new Point(position.x, position.y+1);
+                break;
+            case LEFT:
+                nextPoint = new Point(position.x-1, position.y);
+                break;
+            case RIGHT:
+                nextPoint = new Point(position.x+1, position.y);
+                break;
+        }
+        return nextPoint;
     }
 }

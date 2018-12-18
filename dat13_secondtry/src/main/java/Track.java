@@ -1,8 +1,13 @@
 import java.awt.*;
 
 public class Track {
-    public boolean hasCart() {
-        return hasCart;
+
+    public void setCart(Cart cart) {
+        this.cart = cart;
+    }
+
+    public Cart getCart(){
+        return cart;
     }
 
     enum TrackType{
@@ -14,16 +19,12 @@ public class Track {
     }
 
     private TrackType trackType;
-    private boolean hasCart = false;
+    private Cart cart = null;
     private Point position;
 
     public Track(Point p, TrackType trackType) {
         this.trackType = trackType;
         this.position = p;
-    }
-
-    public void setHasCart(boolean hasCart) {
-        this.hasCart = hasCart;
     }
 
     public TrackType getTrackType() {

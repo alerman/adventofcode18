@@ -2,32 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="051fdba1-ac1c-4cf2-8c2c-86c3f946b91f" name="Default Changelist" comment="day 13 partial">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/day10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/day10_main.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/day10_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/main/java/Star.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/main/java/day10_part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/main/resources/input-example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10/src/main/resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/day6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/main/java/Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/main/java/Part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/main/resources/input-example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day6/src/main/resources/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/day7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/main/java/Part1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/main/java/Part2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/main/resources/input-example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/src/main/resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dat13_secondtry/src/main/resources/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/daysAfter13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/BoardSection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Combatant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Day15Part1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Elf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Goblin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daysAfter13/src/main/resources/day15Part1-example.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day5/day5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day5/day5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/dat13_secondtry.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dat13_secondtry/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java" beforeDir="false" afterPath="$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/target/classes/Cart$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/target/classes/Cart$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/target/classes/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/target/classes/Track$TrackType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat13_secondtry/target/classes/Track.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day6/day6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day7/day7.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/day9/day9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day9/day9.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day9/src/main/java/day9_part1.java" beforeDir="false" afterPath="$PROJECT_DIR$/day9/src/main/java/day9_part1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/day5/target/" />
@@ -37,6 +41,9 @@
     <ignored path="$PROJECT_DIR$/day8/target/" />
     <ignored path="$PROJECT_DIR$/day9/target/" />
     <ignored path="$PROJECT_DIR$/dat13_secondtry/target/" />
+    <ignored path="$PROJECT_DIR$/day7/target/" />
+    <ignored path="$PROJECT_DIR$/day6/target/" />
+    <ignored path="$PROJECT_DIR$/daysAfter13/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,63 +53,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dat13_secondtry/pom.xml">
+        <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/pom.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2280">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="6" selection-end-line="83" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Day15Part1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+            <state relative-caret-position="801">
+              <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/resources/input-example-2.txt">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/BoardSection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+              <folding>
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/resources/day15Part1-example.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
@@ -111,28 +110,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Combatant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day5/src/main/java/input-example.txt">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Elf.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="16" selection-start-column="16" selection-end-column="16" />
+            <state relative-caret-position="228">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#144#145#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day4/src/main/java/Ingest.java">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Goblin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+            <state relative-caret-position="152">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#145#146#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2318">
+              <caret line="62" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,13 +202,23 @@
         <option value="$PROJECT_DIR$/day9/pom.xml" />
         <option value="$PROJECT_DIR$/day9/src/main/java/day9_part1.java" />
         <option value="$PROJECT_DIR$/dat13_secondtry/pom.xml" />
-        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/resources/input-example-2.txt" />
-        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java" />
-        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java" />
-        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/resources/input.txt" />
+        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java" />
+        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/resources/input-example-2.txt" />
+        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java" />
+        <option value="$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/pom.xml" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part1.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part2.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Elf.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Goblin.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/resources/day15Part1-example.txt" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/BoardSection.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Combatant.java" />
+        <option value="$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Day15Part1.java" />
       </list>
     </option>
   </component>
@@ -208,71 +249,6 @@
               <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
               <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="dat13_secondtry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="dat13_secondtry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="dat13_secondtry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="dat13_secondtry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="dat13_secondtry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="day8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="day8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="day8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="adventofcode18" type="b2602c69:ProjectViewProjectNode" />
-              <item name="adventofcode18" type="462c0819:PsiDirectoryNode" />
-              <item name="day8" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -289,6 +265,9 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="alerman.advent.day15" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/day4/src/main/java" />
       <recent name="$PROJECT_DIR$/day3/src/main/java" />
@@ -307,31 +286,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Day15Part1">
+    <configuration name="Day14Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alerman.advent.day14.Day14Part1" />
+      <module name="daysAfter13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerman.advent.day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day14Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alerman.advent.day14.Day14Part2" />
+      <module name="daysAfter13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerman.advent.day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day15Part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="alerman.advent.day15.Day15Part1" />
+      <module name="daysAfter13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="alerman.advent.day15.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="dat13_secondtry" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part2" />
-      <module name="day5" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day8_part1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day8_part1" />
-      <module name="day8" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="day8_part2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day8_part2" />
-      <module name="day8" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -345,19 +342,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.day8_part1" />
-      <item itemvalue="Application.day8_part2" />
       <item itemvalue="Application.day9_part1" />
-      <item itemvalue="Application.Part2" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Day14Part1" />
+      <item itemvalue="Application.Day14Part2" />
+      <item itemvalue="Application.Day15Part1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day15Part1" />
+        <item itemvalue="Application.Day14Part2" />
+        <item itemvalue="Application.Day14Part1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.day9_part1" />
-        <item itemvalue="Application.day8_part2" />
-        <item itemvalue="Application.day8_part1" />
-        <item itemvalue="Application.Part2" />
       </list>
     </recent_temporary>
   </component>
@@ -376,6 +373,8 @@
       <workItem from="1544401383652" duration="2755000" />
       <workItem from="1544736743445" duration="5148000" />
       <workItem from="1544753001549" duration="195000" />
+      <workItem from="1544832922879" duration="16664000" />
+      <workItem from="1545096802122" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="Mavenize">
       <created>1544041102541</created>
@@ -416,28 +415,27 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32122000" />
+    <option name="totallyTimeSpent" value="49261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="88" width="2400" height="1424" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15905173" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16422413" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32790223" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49956897" visible="true" weight="0.39688978" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49913794" weight="0.32654446" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49827588" visible="true" weight="0.3957909" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.2797013" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49956897" visible="true" weight="0.32922128" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50043106" side_tool="true" visible="true" weight="0.32922128" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32985553" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49913794" weight="0.32847276" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5017241" side_tool="true" weight="0.34894773" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4987069" weight="0.32858112" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,11 +508,52 @@
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Day15Part1.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Math.sqrt(45)" language="JAVA" />
+        <watch expression="this.position.x" language="JAVA" />
+        <watch expression="position.x" language="JAVA" />
+        <watch expression="Math.sqrt(position.x^2+position.y^2)" language="JAVA" />
+        <watch expression="position.x^2" language="JAVA" />
+        <watch expression="y" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>input[y].length()&lt;x</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>carts.size()==2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.getDirection() != direction</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>board.get(position) == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>board.get(position) == null;</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>marble == numMarbles</expression-string>
         <language-id>JAVA</language-id>
@@ -538,6 +577,41 @@
     </expressions>
     <expressions id="watch">
       <expression>
+        <expression-string>((TreeMap) combatantMap).values.iterator().next().getCombatantType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>combatantMap.get(0).getCombatantType()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>position.x^2</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.sqrt(position.x^2+position.y^2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>position.x</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>this.position.x</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Math.sqrt(45)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>Integer.MAX_VALUE &gt; 71919*100</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -549,16 +623,6 @@
       </expression>
       <expression>
         <expression-string>newNode</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inputArr[49999]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>inputArr[50000]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -707,47 +771,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day8/src/main/java/day8_part1.java">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="15" column="33" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dat13_secondtry/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java">
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2280">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/resources/input-example-2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day5/src/main/java/input-example.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        <state relative-caret-position="608">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -758,34 +792,195 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/resources/input-txt" />
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Track.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day5/src/main/java/input-example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/resources/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/resources/input-example-2.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="6" selection-end-line="83" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Cart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="69" column="9" selection-start-line="69" selection-start-column="9" selection-end-line="69" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1075#1076#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1162#1163#0" expanded="true" />
+            <element signature="e#1201#1202#0" expanded="true" />
+            <element signature="e#1233#1234#0" expanded="true" />
+            <element signature="e#1286#1287#0" expanded="true" />
+            <element signature="e#1328#1329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8/src/main/java/day8_part1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="15" column="33" selection-start-line="11" selection-start-column="8" selection-end-line="15" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/lang/String.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="586">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/src/main/java/Part1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/ArrayList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dat13_secondtry/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+    <entry file="file://$PROJECT_DIR$/daysAfter13/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/BoardSection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="114">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/resources/day15Part1-example.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        <state relative-caret-position="228">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Combatant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Elf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Goblin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#145#146#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day14/Day14Part1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/daysAfter13/src/main/java/alerman/advent/day15/Day15Part1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="56" column="50" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -841,7 +1036,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>dat13_secondtry</last-edited>
+          <last-edited>daysAfter13</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -854,6 +1049,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.google.guava:guava:15.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
